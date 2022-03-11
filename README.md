@@ -10,3 +10,5 @@ If you would like me to share your resume and/or final project, please add an en
 
 
 Tania, [RESUME]- https://taniactl.github.io/Taniasresume/ , [WEBSITE]- https://taniactl.github.io/TANIASWEBSITE/
+
+Eliana, [Resume] https://eligutiro.github.io/Web-Resume/ ,  [Website]  https://eligutiro.github.io/Website-Final-Project/
