@@ -15,3 +15,4 @@ Eliana, [Resume] https://eligutiro.github.io/Web-Resume/ ,  [Website]  https://e
 
 Alaya, [Resume] https://abholly.github.io/Resume/, [Website] https://abholly.github.io/Final-Project-EridaniBook/index.html
 
+Ophelia (Jesus), [resume] https://github.com/OpheliaMendivil/Resume-Website , [Website] https://github.com/OpheliaMendivil/CIS133DA-Final-Project
