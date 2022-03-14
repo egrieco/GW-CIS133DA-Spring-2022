@@ -12,3 +12,4 @@ If you would like me to share your resume and/or final project, please add an en
 * Eliana [Resume](https://eligutiro.github.io/Web-Resume/), [Website](https://eligutiro.github.io/Website-Final-Project/)
 * Alaya [Resume](https://abholly.github.io/Resume/), [Website](https://abholly.github.io/Final-Project-EridaniBook/)
 * Ophelia (Jesus), [Resume](https://github.com/OpheliaMendivil/Resume-Website), [Website](https://github.com/OpheliaMendivil/CIS133DA-Final-Project)
+* Courtnei [Resume](https://cdcarey.github.io/resume/), [Website](https://cdcarey.github.io/Courtnei-website/)
